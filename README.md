@@ -4,7 +4,7 @@
 
 - 👋 Hi, ... Steven
 - 👀 ... interested in PL
-- 🌱 ... currently learning how to make PL easy to learn
+- 🌱 ... working on making PL easier to learn
 - 💞️ PL
 - 📫 steven.lolong@uni-tuebingen.de
 
