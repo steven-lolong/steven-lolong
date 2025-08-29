@@ -1,12 +1,8 @@
-[.../I'm]
-
-["Programming Language and Visual PL"/PL]
-
-- 👋 Hi, ... Steven
-- 👀 ... interested in PL
-- 🌱 ... working on making PL easier to learn
-- 💞️ PL
-- 📫 steven.lolong@uni-tuebingen.de
+- 👋 Hi, I'am Steven
+- 👀 interested in PL and VPL
+- 🌱 working on making PL easier to learn
+- 💞️ [MNL](https://macacanigra-pl.github.io/macacanigra-pl/)
+- 📫 [steven dot lolong at uni-tuebingen dot de](mailto://steven.lolong@uni-tuebingen.de)
 
 <!---
 steven-lolong/steven-lolong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
