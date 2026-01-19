@@ -1,7 +1,7 @@
 - 👋 Hi, I'am Steven
 - 👀 interested in Programming Language (PL) and Visual Programming Language (VPL) design
 - 🌱 working on making PL easier to learn
-- 💞️ [Macaca Nigra Programming Language (MNL)](https://macacanigra-pl.github.io/macacanigra-pl/)
+- 💞️ [Macaca Nigra Programming Language (MNL)](https://mnl-pl.org)
 - 📫 [steven dot lolong at uni-tuebingen dot de](mailto://steven.lolong@uni-tuebingen.de)
 
 <!---
